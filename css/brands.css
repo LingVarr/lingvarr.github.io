@@ -119,3 +119,10 @@
   --button-text:#FFFFFF;
   --button-background:#107C10;
 }
+
+/* The Unique and Its Property */
+.button-tuaip {
+    --button-text: #000000;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
+}
