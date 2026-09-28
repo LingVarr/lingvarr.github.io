@@ -22,6 +22,12 @@
 /* Brand-Specific Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
+/* Akkoma */
+.button-akkoma {
+  --button-text:#000000;
+  --button-background:#FFFFFF;
+}
+
 /* Bluesky */
 .button-bluesky {
 	--button-text:#FFFFFF;
@@ -32,6 +38,19 @@
 .button-discord {
 	--button-text:#ffffff;
 	--button-background:#5865F2;
+}
+
+/* Fluxer */
+.button-fluxer {
+	--button-text:#000000;
+	--button-background:#ffffff;
+}
+
+/* Forgejo */
+.button-forgejo {
+	--button-text:#ffffff;
+	--button-background:#212b37;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Friendica */
@@ -52,13 +71,6 @@
 	--button-text:#333333;
 	--button-background:#f3f1e6;
 	--button-border:1px solid #212121;
-}
-
-/* Gravatar */
-.button-gravatar {
-  --button-text:#101517;
-  --button-background:#FFFFFF;
-  --button-border:1px solid #E0E0E0;
 }
 
 /* Lemmy */
@@ -95,12 +107,6 @@
   --button-border:1px solid #000000;
 }
 
-/* Pleroma */
-.button-pleroma {
-  --button-text:#000000;
-  --button-background:#FFFFFF;
-}
-
 /* Reddit */
 .button-reddit {
 	--button-text:#FFFFFF;
@@ -119,6 +125,12 @@
 	--button-background:#3faee8;
 }
 
+/* Twitch */
+.button-twitch {
+	--button-text:#ffffff;
+	--button-background:#9146ff;
+}
+
 /* X */
 .button-x {
 	--button-text:#FFFFFF;
@@ -130,6 +142,13 @@
 .button-xbox {
   --button-text:#FFFFFF;
   --button-background:#107C10;
+}
+
+/* YouTube */
+.button-yt {
+	--button-text:#ffffff;
+	--button-background:#282828;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* The Unique and Its Property */
