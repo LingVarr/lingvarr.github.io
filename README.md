@@ -1,1 +1,1 @@
-README
+This repository is intended for hosting my personal GitHub Page with the use of [LittleLink](https://github.com/sethcottle/littlelink).
