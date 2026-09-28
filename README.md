@@ -1,8 +1,6 @@
-This repository is intended for hosting my personal GitHub Page with the use of [LittleLink](https://github.com/sethcottle/littlelink). Here's the link to it: https://lingvarr.github.io
+This repository is intended for hosting my personal GitHub Page with the use of [LittleLink](https://github.com/sethcottle/littlelink), here's the link to it: https://lingvarr.github.io
 
 The Markdown version of it:
-
-![LingVarr](images/avatar.png)
 
 # Ling Varangor
 ### aka LingVarr (or simply — Ling)
