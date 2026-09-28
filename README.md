@@ -12,7 +12,7 @@ The markdown version of it:
 | **Social** | [Bluesky](https://bsky.app/profile/lingvarr.bsky.social) • [Reddit](https://www.reddit.com/user/LingVarr/) • [X/Twitter](https://x.com/Ling_Varr) |
 | **Fediverse** | [Akkoma](https://fe.disroot.org/@lingvarr) • [Friendica](https://friendica.world/profile/lingvarr) • [Lemmy](https://lemmy.dbzer0.com/u/LingVarr) • [Mastodon](https://mstdn.social/@lingvarr) • [Pixelfed](https://pixelfed.social/lingvarr) |
 | **Chat** | [Discord (@lingvarr)](https://discord.com/users/520902993617616897) • [Fluxer (LingVarr#5935)](https://web.fluxer.app/users/1472174092889903104) • [Matrix](https://matrix.to/#/@lingvarr:unredacted.org) • [Telegram](https://t.me/lingvarr) |
-| **Media & Video** | [Goodreads](https://www.goodreads.com/user/show/203787345-ling-varangor) • [Letterboxd](https://boxd.it/mEOdX) • [Twitch](https://www.twitch.tv/lingvarr) • [YouTube](https://www.youtube.com/@LingVarr) |
+| **Media & Video** | [Goodreads](https://www.goodreads.com/lingvarr) • [Letterboxd](https://boxd.it/mEOdX) • [Twitch](https://www.twitch.tv/lingvarr) • [YouTube](https://www.youtube.com/@LingVarr) |
 | **Gaming** | [Medal](https://medal.tv/ru/u/LingVarr) • [Steam](https://steamcommunity.com/id/lingvarr/) • [Xbox](https://www.xbox.com/en-US/play/user/LingVarr) |
 | **Code** | [Forgejo](https://git.disroot.org/LingVarr) • [GitHub](https://github.com/LingVarr) |
 
