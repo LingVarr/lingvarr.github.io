@@ -13,7 +13,7 @@ The markdown version of it:
 | **Fediverse** | [Mastodon](https://mstdn.social/@lingvarr) • [Lemmy](https://lemmy.dbzer0.com/u/LingVarr) • [Pixelfed](https://pixelfed.social/lingvarr) • [Akkoma](https://fe.disroot.org/@lingvarr) • [Friendica](https://friendica.world/profile/lingvarr) |
 | **Chat** | [Matrix](https://matrix.to/#/@lingvarr:unredacted.org) • [Telegram](https://t.me/lingvarr) • [Discord](https://discord.com/users/520902993617616897) • [Fluxer](https://web.fluxer.app/users/1472174092889903104) |
 | **Media & Video** | [YouTube](https://www.youtube.com/@LingVarr) • [Twitch](https://www.twitch.tv/lingvarr) • [Goodreads](https://www.goodreads.com/user/show/203787345-ling-varangor) • [Letterboxd](https://boxd.it/mEOdX) |
-| **Gaming** | [Steam](https://steamcommunity.com/id/lingvarr/) • [Xbox](https://www.xbox.com/en-US/play/user/LingVarr) |
+| **Gaming** | [Medal](https://medal.tv/ru/u/LingVarr) • [Steam](https://steamcommunity.com/id/lingvarr/) • [Xbox](https://www.xbox.com/en-US/play/user/LingVarr) |
 | **Code** | [GitHub](https://github.com/LingVarr) • [Forgejo](https://git.disroot.org/LingVarr) |
 
 ## What brings me ideas
