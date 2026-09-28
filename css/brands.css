@@ -34,10 +34,10 @@
 	--button-background:#5865F2;
 }
 
-/* Discord */
-.button-discord {
-	--button-text:#ffffff;
-	--button-background:#5865F2;
+/* Friendica */
+.button-friendica {
+	--button-text:#000000;
+	--button-background:#FFFFFF;
 }
 
 /* GitHub */
