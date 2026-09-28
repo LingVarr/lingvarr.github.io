@@ -34,6 +34,12 @@
 	--button-background:#5865F2;
 }
 
+/* Discord */
+.button-discord {
+	--button-text:#ffffff;
+	--button-background:#5865F2;
+}
+
 /* GitHub */
 .button-github {
 	--button-text:#ffffff;
@@ -87,6 +93,12 @@
   --button-text:#000000;
   --button-background:#FFFFFF;
   --button-border:1px solid #000000;
+}
+
+/* Pleroma */
+.button-pleroma {
+  --button-text:#000000;
+  --button-background:#FFFFFF;
 }
 
 /* Reddit */

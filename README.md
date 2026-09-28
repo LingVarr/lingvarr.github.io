@@ -1,1 +1,1 @@
-This repository is intended for hosting my personal GitHub Page with the use of [LittleLink](https://github.com/sethcottle/littlelink).
+This repository is intended for hosting my personal GitHub Page with the use of [LittleLink](https://github.com/sethcottle/littlelink). Here's the link to it: https://lingvarr.github.io
