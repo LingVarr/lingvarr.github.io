@@ -55,8 +55,8 @@
 
 /* Friendica */
 .button-friendica {
-	--button-text:#000000;
-	--button-background:#FFFFFF;
+	--button-text:#ffffff;
+	--button-background:#1872a2;
 }
 
 /* GitHub */
@@ -68,8 +68,8 @@
 
 /* Goodreads */
 .button-goodreads {
-	--button-text:#333333;
-	--button-background:#f3f1e6;
+	--button-text:#1d1914;
+	--button-background:#ebe2d7;
 	--button-border:1px solid #212121;
 }
 
@@ -102,8 +102,9 @@
 
 /* Medal */
 .button-medal {
-	--button-text:#000000;
-	--button-background:#ffffff;
+	--button-text:#ffffff;
+	--button-background:#000000;
+	--button-border:1px solid #FFFFFF;
 }
 
 /* Pixelfed */
@@ -121,8 +122,8 @@
 
 /* Roblox */
 .button-roblox {
-	--button-text:#000000;
-	--button-background:#FFFFFF;
+	--button-text:#ffffff;
+	--button-background:#3156ff;
 }
 
 /* Steam */

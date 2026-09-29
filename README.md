@@ -2,8 +2,7 @@ This repository is intended for hosting [my personal GitHub Page](https://lingva
 
 The markdown version of it:
 
-# Ling Varangor
-### aka LingVarr (or simply — Ling)
+# Ling Varangor (aka LingVarr)
 
 > "Perhaps some things are beautiful because they don't have purpose."
 
