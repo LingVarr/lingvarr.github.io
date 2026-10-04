@@ -157,6 +157,12 @@
   --button-background:#107C10;
 }
 
+/* XMPP */
+.button-xmpp {
+  --button-text:#000000;
+  --button-background:#FFFFFF;
+}
+
 /* YouTube */
 .button-yt {
 	--button-text:#ffffff;
