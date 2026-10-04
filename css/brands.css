@@ -126,6 +126,12 @@
 	--button-background:#3156ff;
 }
 
+/* Signal */
+.button-signal {
+	--button-text:#ffffff;
+	--button-background:#3B45FD;
+}
+
 /* Steam */
 .button-steam {
 	--button-text:#ffffff;
@@ -159,8 +165,9 @@
 
 /* XMPP */
 .button-xmpp {
-  --button-text:#000000;
-  --button-background:#FFFFFF;
+  --button-text:#FFFFFF;
+  --button-background:#000000;
+  --button-border:1px solid #FFFFFF;
 }
 
 /* YouTube */
